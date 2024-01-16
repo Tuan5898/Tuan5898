@@ -1,0 +1,7 @@
+# Một ví dụ đơn giản tính tổng của hai số
+so1 = 5
+so2 = 7
+
+tong = so1 + so2
+
+print("Tổng của", so1, "và", so2, "là:", tong)
